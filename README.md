@@ -1,3 +1,5 @@
+## Darshan Pithadiya
+
 # 💫 About Me:
 I am a results-driven iOS Engineer with 4+ years of experience designing, developing, and delivering production-grade iOS applications. I specialize in building scalable, maintainable, and high-performance mobile solutions aligned with modern Apple ecosystem standards.<br><br>My expertise lies in architecting robust applications using Swift, SwiftUI, and UIKit, with a strong emphasis on clean architecture principles, modular design, and testability. I have hands-on experience leading features from concept to App Store release, ensuring code quality, performance optimization, and long-term maintainability.
 
